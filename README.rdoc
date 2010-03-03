@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Evan Farrar. See LICENSE for details.
+Copyright (c) 2010 Groupon Inc. See LICENSE for details.
